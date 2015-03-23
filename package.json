@@ -1,0 +1,20 @@
+{
+  "name": "angular-react-d3",
+  "version": "0.0.0",
+  "description": "AngularJS, ReactJS and D3.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-nuweb:nuweb/angular-react-d3.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "ReactJS",
+    "D3.js"
+  ],
+  "author": "Chandra Sekhar Veera",
+  "license": "ISC"
+}

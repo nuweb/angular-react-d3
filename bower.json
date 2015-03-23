@@ -1,0 +1,24 @@
+{
+    "name": "angular-react-d3",
+    "version": "0.0.0",
+    "authors": [
+        "Chandra Sekhar Veera"
+    ],
+    "description": "\"AngularJS, ReactJS and D3.js\"",
+    "keywords": [
+        "AngularJS",
+        "ReactJS",
+        "D3.js"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angularjs": "~1.3.14"
+    }
+}
