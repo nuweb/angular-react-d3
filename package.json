@@ -1,20 +1,25 @@
 {
-  "name": "angular-react-d3",
-  "version": "0.0.0",
-  "description": "AngularJS, ReactJS and D3.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github-nuweb:nuweb/angular-react-d3.git"
-  },
-  "keywords": [
-    "AngularJS",
-    "ReactJS",
-    "D3.js"
-  ],
-  "author": "Chandra Sekhar Veera",
-  "license": "ISC"
+    "name": "angular-react-d3",
+    "version": "0.0.0",
+    "description": "AngularJS, ReactJS and D3.js",
+    "main": "client/app.js",
+    "scripts": {
+        "start": "node node_modules/.bin/webpack-dev-server --content-base client"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github-nuweb:nuweb/angular-react-d3.git"
+    },
+    "keywords": [
+        "AngularJS",
+        "ReactJS",
+        "D3.js",
+        "Webpack"
+    ],
+    "author": "Chandra Sekhar Veera",
+    "license": "ISC",
+    "devDependencies": {
+        "webpack": "^1.7.3",
+        "webpack-dev-server": "^1.8.0"
+    }
 }
