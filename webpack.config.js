@@ -4,5 +4,9 @@ module.exports = {
     output: {
         path: __dirname + '/client',
         filename: 'bundle.js'
+    },
+    devServer: {
+        contentBase: "./client",
+        port: 1111
     }
 }

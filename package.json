@@ -4,7 +4,7 @@
     "description": "AngularJS, ReactJS and D3.js",
     "main": "client/app.js",
     "scripts": {
-        "start": "node node_modules/.bin/webpack-dev-server --content-base client"
+        "start": "node node_modules/.bin/webpack-dev-server"
     },
     "repository": {
         "type": "git",
